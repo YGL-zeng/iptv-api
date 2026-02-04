@@ -1,7 +1,16 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
+http://example.com/iptv.m3u
+http://another-provider.com/playlist.m3u
+https://iptv-provider.com/list.txt
+# 央视
+http://example.com/cctv.m3u
 
+# 卫视
+http://example.com/weishi.m3u
 
+# 地方台
+http://example.com/local.m3u
 
 
 
