@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-16 06:44:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-04-22 19:14:15,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -167,6 +167,7 @@ CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u
 海南卫视,http://j.x.bkpcp.top/jx/HAINHD
 海南卫视,http://goo.bkpcp.top/mg/hinws
 海南卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226465/index.m3u8
+河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101
 河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
@@ -867,14 +868,12 @@ CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u
 十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-3.m3u8
 十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-2.m3u8
 十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-4.m3u8
-荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 荆门新闻综合,https://stream1.freetv.fun/jing-men-xin-wen-zong-he-3.m3u8
 荆门新闻综合,https://stream1.freetv.fun/jing-men-xin-wen-zong-he-2.m3u8
 荆门新闻综合,https://stream1.freetv.fun/jing-men-xin-wen-zong-he-1.m3u8
 荆门新闻综合,https://stream1.freetv.fun/jing-men-xin-wen-zong-he-6.m3u8
 荆门新闻综合,https://stream1.freetv.fun/jing-men-xin-wen-zong-he-5.m3u8
 荆门新闻综合,https://stream1.freetv.fun/jing-men-xin-wen-zong-he-4.m3u8
-荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 
 ☘️广西频道,#genre#
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-1.m3u8
