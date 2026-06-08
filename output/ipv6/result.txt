@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-02 07:31:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-06-08 22:17:40,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -169,7 +169,6 @@ CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u
 海南卫视,http://j.x.bkpcp.top/jx/HAINHD
 海南卫视,http://goo.bkpcp.top/mg/hinws
 海南卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226465/index.m3u8
-河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101
 河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
@@ -1202,7 +1201,6 @@ CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 河北都市,https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8#http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
 河北都市,http://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8
-河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
 河北都市,https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1745774515&key=ce739e0d0528ad5a5e6434e48c963ced
 河北都市,https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1746292937&key=31037b0f5b409589966488a8534d4f77
 河北都市,https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1746307365&key=ac1ef10a10a447846c16428759df6b95
@@ -1212,7 +1210,6 @@ CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u
 河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd#http://hbfc.chinashadt.com:2036/live/1003.stream/playlist.m3u8#http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 河北农民,http://ls.qingting.fm/live/1650.m3u8
-河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
 河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 河北农民,https://jwplay.hebyun.com.cn/zb/hbnmtv/1500k/tzwj_video.m3u8?zhebd
 河北农民,https://live.lalifeier.eu.org/hebtv/hbnm.m3u8?t=1745774515&key=fec9ea387b470ccb0dc8e6e0e5b36bec
@@ -1481,7 +1478,6 @@ CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u
 
 🌊港·澳·台,#genre#
 翡翠台,http://r.jdshipin.com/GeWKr
-翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
 翡翠台,https://live.catvod.com/live.php?id=jade_xue
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
@@ -1885,7 +1881,6 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-9.ctv
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-1.ctv
 河北少儿科教,https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-6.ctv
-河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 河北少儿科教,https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-2.m3u8
 河北少儿科教,https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-7.ctv
 河北少儿科教,https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-9.ctv
@@ -1947,5 +1942,4 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=405252f2e3e9d074b85
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
 济公游记,http://live.iill.top/yy.php?id=1355265814
 封神榜,http://www.clmy.cc:35455/yy/1353426319
-上海滩,http://live.iill.top/yy.php?id=1382745184
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
