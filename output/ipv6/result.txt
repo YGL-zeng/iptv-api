@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-22 18:29:22,https://iptv.catvod.com/live.php?id=CCTV1
+2026-08-23 06:21:13,https://iptv.catvod.com/live.php?id=CCTV1
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1
@@ -1985,4 +1985,3 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=405252f2e3e9d074b85
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
 济公游记,http://live.iill.top/yy.php?id=1355265814
 封神榜,http://www.clmy.cc:35455/yy/1353426319
-射雕英雄传,http://live.iill.top/yy.php?id=1354210357
